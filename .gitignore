@@ -1,0 +1,11 @@
+*.swp
+*.mid
+*.midi
+__pycache__/
+bin/
+include/
+lib/
+pip-selfcheck.json
+timing.py
+test.py
+test2.py
